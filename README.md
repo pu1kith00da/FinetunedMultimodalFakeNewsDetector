@@ -1,5 +1,6 @@
-Multimodal Text-Image Classification
-Project Description
+Multimodal Text-Image Classification Project Description
+
+
 This project implements a multimodal classification system that combines textual and visual features for binary classification. It leverages pre-trained BERT for text embeddings and CLIP for image embeddings, using a late fusion approach. The system is designed to classify data points based on both a clean_title (text) and an associated local_image_path.
 
 Features
